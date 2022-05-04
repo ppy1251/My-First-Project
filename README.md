@@ -10,5 +10,7 @@ First project
 
 
 **Happy Holiday**
- *Wish you Happy Holiday*
- This site was built using [GitHub Pages](https://pages.github.com/).
+
+*Wish you Happy Holiday*
+
+This site was built using [GitHub Pages](https://pages.github.com/).
